@@ -11,11 +11,17 @@
 <a href="https://github.com/abnerdejesus11">
   <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="SEU_LINK_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white">
+
+<a href="SEU_LINK_INSTAGRAM">
+  <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="SEU_LINK_PORTFOLIO">
-  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+<a href="SEU_LINK_WHATSAPP">
+  <img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="SEU_LINK_X">
+  <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
 </div>
