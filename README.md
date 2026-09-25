@@ -23,6 +23,9 @@
 <a href="https://x.com/Abner_de_Jesus">
   <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white">
 </a>
+<a href="https://www.threads.com/@abner_d_jesus">
+  <img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white">
+</a>
 
 </div>
 
