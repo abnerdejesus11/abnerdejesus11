@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Olá, eu sou Abner de Jesus
 
-<!--
-**abnerdejesus11/abnerdejesus11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor em formação, focado em me tornar um **Desenvolvedor Full-Stack Web & Mobile**.
 
-Here are some ideas to get you started:
+Tenho interesse em transformar ideias em produtos digitais modernos, úteis e bem estruturados. Atualmente, estou aprofundando os meus conhecimentos em **JavaScript**, enquanto construo uma base sólida em desenvolvimento web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Minha jornada
+
+Atualmente estou focado em:
+
+**HTML • Tailwind CSS • JavaScript • MySQL • PHP • Laravel • React**
+
+E futuramente:
+
+**React Native 📱**
+
+Acredito que ser um bom desenvolvedor vai muito além de conhecer tecnologias. É preciso saber **resolver problemas, escrever código organizado, construir projetos reais e evoluir constantemente**.
+
+### 🎯 Meu objetivo
+
+Tornar-me um desenvolvedor capaz de transformar ideias em **soluções digitais reais**, contribuindo para projetos relevantes e criando produtos que possam gerar impacto tanto localmente quanto globalmente.
+
+> **Aprender. Construir. Melhorar. Repetir. 🚀**
