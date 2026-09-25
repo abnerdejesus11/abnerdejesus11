@@ -20,10 +20,7 @@
   <img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-<a href="
-abner_d_jesus
-Abner de jesus
-https://x.com/Abner_de_Jesus">
+<a href="https://x.com/Abner_de_Jesus">
   <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white">
 </a>
 
