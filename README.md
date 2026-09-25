@@ -1,25 +1,74 @@
 <div align="center">
 
-# 👋 Olá, eu sou Abner de Jesus
+# Abner de Jesus
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1200&color=8B5CF6&center=true&vCenter=true&width=720&lines=Full-Stack+Web+%26+Mobile+Developer+em+forma%C3%A7%C3%A3o;Transformando+ideias+em+produtos+digitais;Aprender+%E2%86%92+Construir+%E2%86%92+Evoluir;JavaScript+%7C+React+%7C+PHP+%7C+Laravel;Building+the+future%2C+one+line+at+a+time." />
+### Full-Stack Web & Mobile Developer em formação
+
+🇦🇴 Angola · 💻 JavaScript · 🚀 Building digital products
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=abnerdejesus11&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
+<a href="https://github.com/abnerdejesus11">
+  <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
+</a>
+<a href="SEU_LINK_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-18181B?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="SEU_LINK_PORTFOLIO">
+  <img src="https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </div>
 
 ---
 
-## `> whoami`
+## Sobre mim
 
-```js
-const abner = {
-    name: "Abner de Jesus",
-    location: "Angola 🇦🇴",
-    role: "Full-Stack Web & Mobile Developer em formação",
-    currentFocus: "JavaScript",
-    mindset: "Learn → Build → Improve",
-    mission: "Transformar ideias em produtos reais"
-};
+Sou um desenvolvedor em formação focado em **desenvolvimento Web e Mobile**.
+
+Atualmente estou aprofundando **JavaScript**, fortalecendo lógica de
+programação, resolução de problemas e desenvolvimento de projetos.
+
+Meu objetivo é construir aplicações modernas, úteis e bem estruturadas,
+e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
+
+---
+
+## Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,react" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+
+### Mobile & Tools
+
+<img src="https://skillicons.dev/icons?i=react,git,github,vscode,vite" />
+
+</div>
+
+---
+
+## Jornada
+
+```text
+HTML
+  ↓
+Tailwind CSS
+  ↓
+JavaScript          ← Atualmente
+  ↓
+React
+  ↓
+MySQL
+  ↓
+PHP
+  ↓
+Laravel
+  ↓
+React Native
