@@ -1,23 +1,36 @@
-## 👋 Olá, eu sou Abner de Jesus
+# 👋 Olá, eu sou Abner de Jesus!
 
-Sou desenvolvedor em formação, focado em me tornar um **Desenvolvedor Full-Stack Web & Mobile**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=false&vCenter=true&width=600&lines=Desenvolvedor+em+formação+%F0%9F%92%BB;Construindo+o+meu+futuro+com+c%C3%B3digo+%F0%9F%9A%80;JavaScript+%7C+React+%7C+PHP+%7C+Laravel;Full-Stack+Web+%26+Mobile+Developer+%F0%9F%93%B1" />
 
-Tenho interesse em transformar ideias em produtos digitais modernos, úteis e bem estruturados. Atualmente, estou aprofundando os meus conhecimentos em **JavaScript**, enquanto construo uma base sólida em desenvolvimento web.
+> 💻 Transformando ideias em código,  
+> 🧠 conhecimento em projetos,  
+> 🚀 e projetos em experiências reais.
 
-### 🚀 Minha jornada
+---
 
-Atualmente estou focado em:
+### 🧑‍💻 Sobre mim
 
-**HTML • Tailwind CSS • JavaScript • MySQL • PHP • Laravel • React**
+Sou um desenvolvedor em formação focado em me tornar um
+**Full-Stack Web & Mobile Developer**.
 
-E futuramente:
+Atualmente estou aprofundando os meus conhecimentos em
+**JavaScript**, construindo uma base sólida para desenvolver
+aplicações modernas, funcionais e bem estruturadas.
 
-**React Native 📱**
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
-Acredito que ser um bom desenvolvedor vai muito além de conhecer tecnologias. É preciso saber **resolver problemas, escrever código organizado, construir projetos reais e evoluir constantemente**.
+Gosto de aprender através da prática, resolver problemas com código
+e transformar ideias em projetos que possam ser realmente úteis.
 
-### 🎯 Meu objetivo
+---
 
-Tornar-me um desenvolvedor capaz de transformar ideias em **soluções digitais reais**, contribuindo para projetos relevantes e criando produtos que possam gerar impacto tanto localmente quanto globalmente.
+### ⚡ Atualmente
 
-> **Aprender. Construir. Melhorar. Repetir. 🚀**
+```text
+🟢 JavaScript      ███████████████░░░
+🟢 Tailwind CSS    ████████████████░░
+🟡 MySQL           ███████░░░░░░░░░░░
+⚪ PHP              ░░░░░░░░░░░░░░░░░░
+⚪ Laravel          ░░░░░░░░░░░░░░░░░░
+⚪ React             ░░░░░░░░░░░░░░░░░░
+⚪ React Native      ░░░░░░░░░░░░░░░░░░
