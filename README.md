@@ -43,7 +43,7 @@ e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
 
 ---
 
-## Stack
+## Stack em construção
 
 <div align="center">
 
