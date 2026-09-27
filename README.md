@@ -63,7 +63,7 @@ e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
 
 ---
 
-## 📂 **O que você encontrará aqui**
+##  **O que você encontrará aqui**
 
 * Desafios de programação
 * Repositórios de estudo
@@ -74,7 +74,7 @@ e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
 
 ---
 
-## 🎯 **Meu objetivo**
+## **Meu objetivo**
 
 Construir uma carreira sólida como desenvolvedor **Full-Stack Web & Mobile**, criando projetos reais, resolvendo problemas e desenvolvendo soluções que possam ser utilizadas tanto localmente quanto globalmente.
 
