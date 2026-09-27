@@ -82,13 +82,13 @@ Construir uma carreira sólida como desenvolvedor **Full-Stack Web & Mobile**, c
 
 ---
 
-## 📊 **GitHub**
+##  **GitHub**
 
 Aqui documento minha jornada de aprendizado, meus projetos e minha evolução como programador.
 
 ---
 
-## 🌐 **Conecte-se comigo**
+##  **Conecte-se comigo**
 
 **Instagram · WhatsApp · X · LinkedIn**
 
