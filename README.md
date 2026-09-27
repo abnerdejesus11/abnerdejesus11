@@ -35,7 +35,7 @@
 
 Sou um desenvolvedor em formação focado em **desenvolvimento Web e Mobile**.
 
-Atualmente estou aprofundando **O desenvolvimento Front-End**, fortalecendo lógica de
+Atualmente estou aprofundando **O desenvolvimento Front-End**, fortalecendo conseitos de
 programação, resolução de problemas e desenvolvimento de projetos.
 
 Meu objetivo é construir aplicações modernas, úteis e bem estruturadas,
