@@ -63,35 +63,34 @@ e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
 
 ---
 
-**O que você encontrará aqui**
- 
-Desafios de programação
- 
-Repositórios de estudo
-  
-Projetos pessoais
- 
-Projetos web
-  
-Projetos mobile
- 
-Experimentos e novas ideias
- 
-Meu objetivo
+## 📂 **O que você encontrará aqui**
 
+* Desafios de programação
+* Repositórios de estudo
+* Projetos pessoais
+* Projetos web
+* Projetos mobile
+* Experimentos e novas ideias
 
-Construir uma carreira sólida como desenvolvedor Full-Stack Web & Mobile, criando projetos reais, resolvendo problemas e desenvolvendo soluções que possam ser utilizadas tanto localmente quanto globalmente.
+---
 
-Aprender. Construir. Melhorar. Repetir.
+## 🎯 **Meu objetivo**
 
-📊 GitHub
+Construir uma carreira sólida como desenvolvedor **Full-Stack Web & Mobile**, criando projetos reais, resolvendo problemas e desenvolvendo soluções que possam ser utilizadas tanto localmente quanto globalmente.
+
+> **Aprender. Construir. Melhorar. Repetir.**
+
+---
+
+## 📊 **GitHub**
 
 Aqui documento minha jornada de aprendizado, meus projetos e minha evolução como programador.
 
- Conecte-se comigo
- Instagram
- WhatsApp
- X
- LinkedIn
+---
+
+## 🌐 **Conecte-se comigo**
+
+**Instagram · WhatsApp · X · LinkedIn**
+
 
 
