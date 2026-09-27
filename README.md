@@ -62,5 +62,31 @@ e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
 </div>
 
 ---
+📂 O que você encontrará aqui
+
+Este perfil reúne minha evolução como desenvolvedor:
+
+🧪 Desafios de programação
+📚 Repositórios de estudo
+🛠️ Projetos pessoais
+🌐 Projetos web
+📱 Projetos mobile
+🚀 Experimentos e novas ideias
+
+🎯 Meu objetivo
+
+Construir uma carreira sólida como desenvolvedor Full-Stack Web & Mobile, criando projetos reais, resolvendo problemas e desenvolvendo soluções que possam ser utilizadas tanto localmente quanto globalmente.
+
+Aprender. Construir. Melhorar. Repetir.
+
+📊 GitHub
+
+Aqui documento minha jornada de aprendizado, meus projetos e minha evolução como programador.
+
+🌐 Conecte-se comigo
+📸 Instagram
+💬 WhatsApp
+🐦 X
+💼 LinkedIn
 
 
