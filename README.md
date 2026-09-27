@@ -35,7 +35,7 @@
 
 Sou um desenvolvedor em formação focado em **desenvolvimento Web e Mobile**.
 
-Atualmente estou aprofundando **JavaScript**, fortalecendo lógica de
+Atualmente estou aprofundando **O desenvolvimento Front-End**, fortalecendo lógica de
 programação, resolução de problemas e desenvolvimento de projetos.
 
 Meu objetivo é construir aplicações modernas, úteis e bem estruturadas,
@@ -63,21 +63,4 @@ e evoluir progressivamente para o desenvolvimento **Full-Stack Web & Mobile**.
 
 ---
 
-## Jornada
 
-```text
-HTML
-  ↓
-Tailwind CSS
-  ↓
-JavaScript          ← Atualmente
-  ↓
-React
-  ↓
-MySQL
-  ↓
-PHP
-  ↓
-Laravel
-  ↓
-React Native
