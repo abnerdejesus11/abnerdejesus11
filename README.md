@@ -46,26 +46,42 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 ## 02 / STACK EM CONSTRUÇÃO
 
-### DEVELOPMENT ARCHITECTURE
-
-| CAMADA             | TECNOLOGIAS    |
-| :----------------- | :------------- |
-| **01 · STRUCTURE** | `HTML`         |
-| **02 · UI**        | `Tailwind CSS` |
-| **03 · LOGIC**     | `JavaScript`   |
-| **04 · FRAMEWORK** | `React`        |
-| **05 · TYPING**    | `TypeScript`   |
-| **06 · DATABASE**  | `MySQL`        |
-| **07 · BACK-END**  | `PHP`          |
-| **08 · FRAMEWORK** | `Laravel`      |
-| **09 · MOBILE**    | `React Native` |
+### MINHA ARQUITETURA DE DESENVOLVIMENTO
 
 ```text
-
+┌──────────────────────────────────────────────────────────────┐
+│                       DESENVOLVIMENTO                        │
+├──────────────────────────────┬───────────────────────────────┤
+│             WEB              │            MOBILE             │
+├──────────────────────────────┼───────────────────────────────┤
+│                              │                               │
+│  01  HTML                    │                               │
+│  02  Tailwind CSS            │                               │
+│  03  JavaScript              │                               │
+│  04  React                   │                               │
+│  05  TypeScript              │                               │
+│  06  MySQL                   │                               │
+│  07  PHP                     │                               │
+│  08  Laravel                 │                               │
+│                              │                               │
+│                              │       09  React Native        │
+│                              │                               │
+└──────────────────────────────┴───────────────────────────────┘
 ```
 
+### CAMINHO DE EVOLUÇÃO
 
-`HTML` · `Tailwind` · `JavaScript` · `React` · `TypeScript` · `MySQL` · `PHP` · `Laravel` · `React Native`
+**01** → HTML
+**02** → Tailwind CSS
+**03** → JavaScript
+**04** → React
+**05** → TypeScript
+**06** → MySQL
+**07** → PHP
+**08** → Laravel
+**09** → React Native
+
+> **Uma base sólida antes de avançar para a próxima camada.**
 
 > **Construindo a base. Expandindo a stack. Evoluindo por etapas.**
 
