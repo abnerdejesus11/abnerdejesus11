@@ -1,176 +1,289 @@
 <div align="center">
-ABNER DE JESUS
-Desenvolvedor Web & Mobile em formação
 
-Código • Criatividade • Construção
+# ABNER DE JESUS
+
+**Desenvolvedor Web & Mobile em formação**
 
 🇦🇴 Angola
+`Código` · `Criatividade` · `Construção`
 
-<br> <a href="https://github.com/abnerdejesus11"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=white"> </a> <a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg=="> <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=white"> </a> <a href="https://wa.me/244933453958"> <img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=flat-square&logo=whatsapp&logoColor=white"> </a> <a href="https://x.com/Abner_de_Jesus"> <img src="https://img.shields.io/badge/X-0D0D0D?style=flat-square&logo=x&logoColor=white"> </a> <a href="https://www.threads.com/@abner_d_jesus"> <img src="https://img.shields.io/badge/Threads-0D0D0D?style=flat-square&logo=threads&logoColor=white"> </a> </div> <br>
-SOBRE
+<br>
 
-Sou Abner de Jesus, desenvolvedor em formação com foco em desenvolvimento Web e Mobile.
+<a href="https://github.com/abnerdejesus11">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
+</a>
+<a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
+<img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white">
+</a>
+<a href="https://wa.me/244933453958">
+<img src="https://img.shields.io/badge/WhatsApp-18181B?style=flat-square&logo=whatsapp&logoColor=white">
+</a>
+<a href="https://x.com/Abner_de_Jesus">
+<img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white">
+</a>
+<a href="https://www.threads.com/@abner_d_jesus">
+<img src="https://img.shields.io/badge/Threads-18181B?style=flat-square&logo=threads&logoColor=white">
+</a>
 
-Atualmente estou concentrado em fortalecer minha base de JavaScript, programação, lógica e resolução de problemas através de desafios e projetos práticos.
+</div>
 
-Minha jornada está sendo construída de forma progressiva: primeiro uma base sólida no Front-End, depois Back-End, bases de dados e, posteriormente, desenvolvimento Mobile.
+<br>
 
-Não quero apenas aprender tecnologias.
-Quero aprender a construir.
+---
 
-STACKS EM CONSTRUÇÃO
+## 01 / SOBRE MIM
+
+Sou **Abner de Jesus**, desenvolvedor em formação com foco em **desenvolvimento Web e Mobile**.
+
+Atualmente estou concentrado em fortalecer minha base de **JavaScript**, programação, lógica e resolução de problemas através de desafios e projetos práticos.
+
+Minha jornada está sendo construída de forma progressiva: primeiro uma base sólida no **Front-End**, depois **Back-End**, bases de dados e, posteriormente, desenvolvimento **Mobile**.
+
+> **Não quero apenas aprender tecnologias.
+> Quero aprender a construir.**
+
+---
+
+## 02 / STACKS EM CONSTRUÇÃO
+
+Minha stack está sendo construída em etapas.
+
+```text
+                    DESENVOLVIMENTO
+                          │
+            ┌─────────────┴─────────────┐
+            │                           │
+         WEB                         MOBILE
+            │                           │
+            ▼                           ▼
+         HTML                     React Native
+            │
+            ▼
+       Tailwind CSS
+            │
+            ▼
+       JavaScript
+            │
+            ▼
+          React
+            │
+            ▼
+       TypeScript
+            │
+            ▼
+          MySQL
+            │
+            ▼
+           PHP
+            │
+            ▼
+         Laravel
+```
+
+<br>
+
 <div align="center">
 
-01 HTML  → 
-02 Tailwind  → 
-03 JavaScript  → 
-04 React  → 
-05 TypeScript
-
-06 MySQL  → 
-07 PHP  → 
-08 Laravel  → 
-09 React Native  → 
-∞ Projetos
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,react,ts,mysql,php,laravel,reactnative" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,react,ts,mysql,php,laravel,reactnative" /> </div> <br>
-Etapa	Tecnologia	Foco
-01	HTML	Estrutura
-02	Tailwind	Interface
-03	JavaScript	Lógica
-04	React	Aplicações
-05	TypeScript	Escalabilidade
-06	MySQL	Dados
-07	PHP	Back-End
-08	Laravel	Arquitetura
-09	React Native	Mobile
-∞	Projetos	Construir
+**HTML · Tailwind · JavaScript · React · TypeScript · MySQL · PHP · Laravel · React Native**
 
-Cada etapa prepara a próxima.
-
-NO MOMENTO
-Evoluindo meu Front-End
-
-Neste momento, meu foco principal é evoluir meu desenvolvimento Front-End.
-
-Estou fortalecendo minha base de JavaScript, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
-
-Também estou aprofundando minha capacidade de criar interfaces mais organizadas, responsivas, modernas e funcionais.
-
-Meu foco atual
-<div align="center">
-🧠 JavaScript	🧩 Lógica	💻 Projetos	🎨 Front-End
-Fundamentos	Resolução de problemas	Prática	Interfaces
 </div>
 
-Menos teoria isolada. Mais prática. Mais construção.
+> **Uma tecnologia de cada vez. Uma etapa de cada vez.**
 
-O QUE VOCÊ VAI ENCONTRAR AQUI
-<table> <tr> <td width="50%">
-01 Estudos
+---
+
+## 03 / NO MOMENTO
+
+### Evoluindo meu Front-End
+
+Neste momento, meu foco principal é **evoluir meu desenvolvimento Front-End**.
+
+Estou fortalecendo minha base de **JavaScript**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
+
+Também estou aprofundando minha capacidade de criar interfaces mais **organizadas, responsivas, modernas e funcionais**.
+
+<br>
+
+```text
+JAVASCRIPT
+    │
+    ├── Lógica
+    ├── Resolução de problemas
+    ├── Funções
+    ├── Arrays
+    ├── DOM
+    └── Eventos
+           │
+           ▼
+      PROJETOS PRÁTICOS
+           │
+           ▼
+     FRONT-END MAIS FORTE
+```
+
+> **Menos teoria isolada. Mais prática. Mais construção.**
+
+---
+
+## 04 / O QUE VOCÊ VAI ENCONTRAR AQUI
+
+**ESTUDOS**
 
 Anotações, exercícios e experiências durante meu processo de aprendizagem.
 
-</td> <td width="50%">
-02 Desafios
+**DESAFIOS**
 
 Problemas de programação para desenvolver lógica, raciocínio e capacidade de resolução.
 
-</td> </tr> <tr> <td width="50%">
-03 Projetos
+**PROJETOS**
 
 Aplicações e ideias construídas para transformar conhecimento em prática.
 
-</td> <td width="50%">
-04 Experimentos
+**EXPERIMENTOS**
 
 Testes, novas tecnologias, conceitos e ideias que fazem parte da jornada.
 
-</td> </tr> </table>
-EVOLUÇÃO
+---
+
+## 05 / EVOLUÇÃO
+
+### O conhecimento só ganha valor quando vira prática.
+
 <div align="center">
-Construindo uma habilidade de cada vez
-<br>
 
-01 · APRENDER
+```text
+╭──────────────╮       ╭──────────────╮
+│   APRENDER   │ ────▶ │   PRATICAR   │
+╰──────────────╯       ╰──────┬───────╯
+                              │
+                              ▼
+                       ╭──────────────╮
+                       │  CONSTRUIR   │
+                       ╰──────┬───────╯
+                              │
+                              ▼
+                       ╭──────────────╮
+                       │   ENTENDER   │
+                       ╰──────┬───────╯
+                              │
+                              ▼
+                       ╭──────────────╮
+                       │   MELHORAR   │
+                       ╰──────┬───────╯
+                              │
+                              ▼
+                       ╭──────────────╮
+                       │   EVOLUIR    │
+                       ╰──────────────╯
+```
 
-Novos conceitos e fundamentos
-
-↓
-
-02 · PRATICAR
-
-Exercícios, desafios e experimentos
-
-↓
-
-03 · CONSTRUIR
-
-Projetos que transformam conhecimento em prática
-
-↓
-
-04 · ENTENDER
-
-Erros, problemas e soluções
-
-↓
-
-05 · MELHORAR
-
-Refatorar, otimizar e experimentar
-
-↓
-
-06 · EVOLUIR
-
-Novos desafios, novos níveis
+</div>
 
 <br>
 
-Conhecimento → Experiência → Projetos → Aprendizado
+**Aprender** novos conceitos e fundamentos.
 
-</div> <br>
+**Praticar** através de exercícios, desafios e experimentos.
 
-Cada projeto deixa algo para o próximo.
+**Construir** projetos que transformam conhecimento em prática.
 
-DE ANGOLA PARA O MUNDO
+**Entender** erros, problemas e soluções.
 
-Quero construir uma carreira sólida como desenvolvedor Full-Stack Web & Mobile, criando soluções úteis, modernas e bem estruturadas.
+**Melhorar** código, ideias e processos.
 
-Meu objetivo é desenvolver projetos que possam resolver problemas localmente em Angola e também ter utilidade em um contexto global.
+**Evoluir** para novos desafios.
+
+<br>
+
+<div align="center">
+
+`Conhecimento` → `Experiência` → `Projetos` → `Evolução`
+
+</div>
+
+---
+
+## 06 / DE ANGOLA PARA O MUNDO
+
+Quero construir uma carreira sólida como **desenvolvedor Full-Stack Web & Mobile**, criando soluções úteis, modernas e bem estruturadas.
+
+Meu objetivo é desenvolver projetos que possam resolver problemas **localmente em Angola** e também ter utilidade em um contexto global.
 
 Não quero apenas acumular tecnologias.
 
-Quero desenvolver a capacidade de entender um problema, pensar em uma solução e transformá-la em um produto funcional.
+Quero desenvolver a capacidade de **entender um problema, pensar em uma solução e transformá-la em um produto funcional**.
 
-Aprender tecnologia é o começo.
-Construir algo útil é o objetivo.
+> **Aprender tecnologia é o começo.
+> Construir algo útil é o objetivo.**
 
-DIREÇÃO
-<div align="center">
-Front-End → Full-Stack → Mobile
+---
 
-Fundamentos fortes. Projetos reais. Evolução constante.
+## 07 / DIREÇÃO
 
-<br>
+```text
+                         AGORA
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  FRONT-END  │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  FULL-STACK │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    MOBILE   │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   PRODUTOS  │
+                    └─────────────┘
+```
+
+**Fundamentos fortes. Projetos reais. Evolução constante.**
 
 Meu caminho é construído passo a passo, buscando dominar cada etapa antes de avançar para a próxima.
 
-</div>
-CONECTE-SE COMIGO
-<div align="center"> <a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg=="> <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=white"> </a> &nbsp; <a href="https://wa.me/244933453958"> <img src="https://img.shields.io/badge/WhatsApp-0D0D0D?style=flat-square&logo=whatsapp&logoColor=white"> </a> &nbsp; <a href="https://x.com/Abner_de_Jesus"> <img src="https://img.shields.io/badge/X-0D0D0D?style=flat-square&logo=x&logoColor=white"> </a> &nbsp; <a href="https://www.threads.com/@abner_d_jesus"> <img src="https://img.shields.io/badge/Threads-0D0D0D?style=flat-square&logo=threads&logoColor=white"> </a>
+---
 
-<br><br>
+<div align="center">
 
-ABNER DE JESUS
-
-🇦🇴 Construindo de Angola para o mundo.
+## CONECTE-SE COMIGO
 
 <br>
 
-Aprender. Construir. Melhorar. Repetir.
+<a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
+<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://wa.me/244933453958">
+<img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
+
+<a href="https://x.com/Abner_de_Jesus">
+<img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white">
+</a>
+
+<a href="https://www.threads.com/@abner_d_jesus">
+<img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white">
+</a>
+
+<br><br>
+
+### 🇦🇴 ABNER DE JESUS
+
+**Construindo de Angola para o mundo.**
+
+<br>
+
+`Aprender. Construir. Melhorar. Repetir.`
 
 </div>
