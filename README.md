@@ -44,41 +44,31 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 ---
 
-## 02 / STACKS EM CONSTRUÇÃO
+## 02 / STACK EM CONSTRUÇÃO
 
-Minha stack está sendo construída em etapas.
+### DEVELOPMENT ARCHITECTURE
+
+| CAMADA             | TECNOLOGIAS    |
+| :----------------- | :------------- |
+| **01 · STRUCTURE** | `HTML`         |
+| **02 · UI**        | `Tailwind CSS` |
+| **03 · LOGIC**     | `JavaScript`   |
+| **04 · FRAMEWORK** | `React`        |
+| **05 · TYPING**    | `TypeScript`   |
+| **06 · DATABASE**  | `MySQL`        |
+| **07 · BACK-END**  | `PHP`          |
+| **08 · FRAMEWORK** | `Laravel`      |
+| **09 · MOBILE**    | `React Native` |
 
 ```text
-                    DESENVOLVIMENTO
-                          │
-            ┌─────────────┴─────────────┐
-            │                           │
-         WEB                         MOBILE
-            │                           │
-            ▼                           ▼
-         HTML                     React Native
-            │
-            ▼
-       Tailwind CSS
-            │
-            ▼
-       JavaScript
-            │
-            ▼
-          React
-            │
-            ▼
-       TypeScript
-            │
-            ▼
-          MySQL
-            │
-            ▼
-           PHP
-            │
-            ▼
-         Laravel
+
 ```
+
+
+`HTML` · `Tailwind` · `JavaScript` · `React` · `TypeScript` · `MySQL` · `PHP` · `Laravel` · `React Native`
+
+> **Construindo a base. Expandindo a stack. Evoluindo por etapas.**
+
 
 <br>
 
