@@ -53,9 +53,9 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 <div align="center">
 
-## 🧭 MINHA JORNADA
+## 🧩 STACKS EM CONSTRUÇÃO
 
-**Fundamentos → Interfaces → Lógica → Aplicações → Dados → Back-End → Mobile**
+**Uma tecnologia de cada vez. Uma etapa de cada vez.**
 
 </div>
 
@@ -175,6 +175,10 @@ Construir
 
 </div>
 
+<br>
+
+> **HTML → Tailwind → JavaScript → React → TypeScript → MySQL → PHP → Laravel → React Native**
+
 ---
 
 <br>
@@ -183,31 +187,31 @@ Construir
 
 ## ⚡ NO MOMENTO
 
-### JavaScript
+### Evoluindo meu Front-End
 
 </div>
 
+Neste momento, meu foco principal é **evoluir meu desenvolvimento Front-End**.
+
+Estou fortalecendo minha base de **JavaScript**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
+
+Também estou aprofundando minha capacidade de criar interfaces mais **organizadas, responsivas, modernas e funcionais**.
+
+### Meu foco atual
+
 ```text
-┌──────────────────────────────────────────┐
-│                                          │
-│  LÓGICA                                  │
-│     ↓                                    │
-│  FUNÇÕES                                 │
-│     ↓                                    │
-│  ARRAYS                                  │
-│     ↓                                    │
-│  MÉTODOS                                 │
-│     ↓                                    │
-│  DOM & EVENTOS                           │
-│     ↓                                    │
-│  PROJETOS                                │
-│                                          │
-└──────────────────────────────────────────┘
+JavaScript
+    +
+Programação & Lógica
+    +
+Projetos práticos
+    +
+Front-End
+    ↓
+Uma base cada vez mais sólida
 ```
 
-Meu foco atual é transformar conhecimento em **capacidade prática de resolver problemas**.
-
-Em vez de apenas acompanhar cursos, utilizo desafios e projetos para testar o que aprendo.
+> **Menos teoria isolada. Mais prática. Mais construção.**
 
 ---
 
@@ -282,26 +286,143 @@ Construir algo útil é o objetivo.**
 
 ## 📈 EVOLUÇÃO
 
+### O processo por trás de cada projeto
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="180">
+
+### 🧠
+
+**APRENDER**
+
+Entender novos conceitos e tecnologias.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center" width="180">
+
+### 🧪
+
+**PRATICAR**
+
+Testar o conhecimento através de exercícios.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center" width="180">
+
+### 💻
+
+**CONSTRUIR**
+
+Transformar conhecimento em projetos reais.
+
+</td>
+</tr>
+
+<tr>
+<td colspan="5" align="center">
+
+<br>
+
+⬇
+
+<br>
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="180">
+
+### 🐛
+
+**ERRAR**
+
+Encontrar problemas faz parte do processo.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center" width="180">
+
+### 🔍
+
+**ENTENDER**
+
+Descobrir por que algo não funciona.
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center" width="180">
+
+### 🚀
+
+**EVOLUIR**
+
+Corrigir, melhorar e construir novamente.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 ```text
-APRENDER
-   │
-   ▼
-PRATICAR
-   │
-   ▼
-ERRAR
-   │
-   ▼
-ENTENDER
-   │
-   ▼
-CONSTRUIR
-   │
-   ▼
-MELHORAR
-   │
-   └──────────────► REPETIR
+┌──────────────┐
+│    APRENDER  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   PRATICAR   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   CONSTRUIR  │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│    ERRAR     │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   ENTENDER   │
+└──────┬───────┘
+       ↓
+┌──────────────┐
+│   MELHORAR   │
+└──────┬───────┘
+       │
+       └───────────────↻
 ```
+
+**Cada projeto é uma nova volta nesse ciclo.**
 
 </div>
 
@@ -311,13 +432,35 @@ MELHORAR
 
 <div align="center">
 
-### "Aprender. Construir. Melhorar. Repetir."
+## 🎯 DIREÇÃO
+
+**Front-End → Full-Stack → Mobile**
 
 <br>
 
-**Obrigado por visitar meu perfil.**
+Meu objetivo não é apenas acumular tecnologias.
 
-<br><br>
+É desenvolver a capacidade de **pegar uma ideia, entender o problema e transformá-la em uma solução funcional.**
+
+<br>
+
+### Construir hoje.
+
+### Evoluir amanhã.
+
+### Ir mais longe depois.
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+## 🌐 CONECTE-SE COMIGO
+
+<br>
 
 <a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
 <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=flat-square&logo=instagram&logoColor=white">
