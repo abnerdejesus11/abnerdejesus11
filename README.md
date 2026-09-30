@@ -2,28 +2,27 @@
 
 # ABNER DE JESUS
 
-### Desenvolvedor Web & Mobile em formação
-
-**Código • Criatividade • Construção**
+**Desenvolvedor Web & Mobile em formação**
 
 🇦🇴 Angola
+`Código` · `Criatividade` · `Construção`
 
 <br>
 
 <a href="https://github.com/abnerdejesus11">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
 </a>
 <a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
-<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white">
 </a>
 <a href="https://wa.me/244933453958">
-<img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp-18181B?style=flat-square&logo=whatsapp&logoColor=white">
 </a>
 <a href="https://x.com/Abner_de_Jesus">
-<img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white">
+<img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white">
 </a>
 <a href="https://www.threads.com/@abner_d_jesus">
-<img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white">
+<img src="https://img.shields.io/badge/Threads-18181B?style=flat-square&logo=threads&logoColor=white">
 </a>
 
 </div>
@@ -47,271 +46,147 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 ## 02 / STACKS EM CONSTRUÇÃO
 
+Minha stack está sendo construída em etapas.
+
+```text
+                    DESENVOLVIMENTO
+                          │
+            ┌─────────────┴─────────────┐
+            │                           │
+         WEB                         MOBILE
+            │                           │
+            ▼                           ▼
+         HTML                     React Native
+            │
+            ▼
+       Tailwind CSS
+            │
+            ▼
+       JavaScript
+            │
+            ▼
+          React
+            │
+            ▼
+       TypeScript
+            │
+            ▼
+          MySQL
+            │
+            ▼
+           PHP
+            │
+            ▼
+         Laravel
+```
+
+<br>
+
 <div align="center">
 
-### A tecnologia muda. A base permanece.
-
-<br>
-
-<table>
-<tr>
-<td align="center" colspan="3">
-
-**01 — FRONT-END**
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,react,ts,mysql,php,laravel,reactnative" />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,react,ts" />
-
-<br>
-
-`HTML` · `Tailwind` · `JavaScript` · `React` · `TypeScript`
-
-</td>
-</tr>
-
-<tr>
-<td height="25"></td>
-<td height="25"></td>
-<td height="25"></td>
-</tr>
-
-<tr>
-<td align="center">
-
-**02 — DATABASE**
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<br>
-
-`MySQL`
-
-</td>
-
-<td align="center">
-
-**03 — BACK-END**
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=php,laravel" />
-
-<br>
-
-`PHP` · `Laravel`
-
-</td>
-
-<td align="center">
-
-**04 — MOBILE**
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=react" />
-
-<br>
-
-`React Native`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-**HTML → Tailwind → JavaScript → React → TypeScript**
-
-**MySQL → PHP → Laravel → React Native**
-
-<br>
-
-> *Uma tecnologia de cada vez. Uma etapa de cada vez.*
+**HTML · Tailwind · JavaScript · React · TypeScript · MySQL · PHP · Laravel · React Native**
 
 </div>
+
+> **Uma tecnologia de cada vez. Uma etapa de cada vez.**
 
 ---
 
 ## 03 / NO MOMENTO
 
-<div align="center">
+### Evoluindo meu Front-End
 
-### Aprofundando meu Front-End
+Neste momento, meu foco principal é **evoluir meu desenvolvimento Front-End**.
+
+Estou fortalecendo minha base de **JavaScript**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
+
+Também estou aprofundando minha capacidade de criar interfaces mais **organizadas, responsivas, modernas e funcionais**.
 
 <br>
 
-**Neste momento, meu principal foco é evoluir minha capacidade de desenvolver para a Web.**
 
-</div>
-
-Estou aprofundando meus conhecimentos em **Front-End**, buscando construir uma base cada vez mais sólida e desenvolver interfaces mais organizadas, responsivas, modernas e funcionais.
-
-Ao mesmo tempo, continuo praticando através de desafios e projetos, transformando o conhecimento adquirido em experiência.
-
-> **O objetivo agora é fortalecer a base antes de avançar para as próximas etapas.**
+> **Menos teoria isolada. Mais prática. Mais construção.**
 
 ---
 
 ## 04 / O QUE VOCÊ VAI ENCONTRAR AQUI
 
-<table>
-<tr>
-
-<td width="50%">
-
-### ESTUDOS
+**ESTUDOS**
 
 Anotações, exercícios e experiências durante meu processo de aprendizagem.
 
-</td>
-
-<td width="50%">
-
-### DESAFIOS
+**DESAFIOS**
 
 Problemas de programação para desenvolver lógica, raciocínio e capacidade de resolução.
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-### PROJETOS
+**PROJETOS**
 
 Aplicações e ideias construídas para transformar conhecimento em prática.
 
-</td>
-
-<td width="50%">
-
-### EXPERIMENTOS
+**EXPERIMENTOS**
 
 Testes, novas tecnologias, conceitos e ideias que fazem parte da jornada.
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 ## 05 / EVOLUÇÃO
 
+### O conhecimento só ganha valor quando vira prática.
+
+<br>
+
 <div align="center">
 
-### Cada etapa acrescenta algo à próxima.
+|            01            |           02          |                03                |
+| :----------------------: | :-------------------: | :------------------------------: |
+|       **APRENDER**       |      **PRATICAR**     |           **CONSTRUIR**          |
+|        Fundamentos       |      Experiência      |             Projetos             |
+| Conceitos e conhecimento | Exercícios e desafios | Ideias transformadas em soluções |
 
 <br>
 
-<table>
-
-<tr>
-
-<td align="center" width="150">
-
-🧠
-
-### APRENDER
+**────────────────────────────────────────────────────────────**
 
 <br>
 
-Novos conceitos
-e fundamentos
+|                 04                |         05         |       06       |
+| :-------------------------------: | :----------------: | :------------: |
+|            **ANALISAR**           |    **MELHORAR**    |   **EVOLUIR**  |
+|         Erros e resultados        |     Refinamento    | Novos desafios |
+| Entender o que pode ser melhorado | Código e processos |  Próxima etapa |
 
-</td>
-
-<td align="center" width="40">
-
-+</td>
-
-<td align="center" width="150">
-
-⚙️
-
-### PRATICAR
+</div>
 
 <br>
 
-Exercícios, desafios
-e experiências
+> **Cada projeto representa uma nova oportunidade de aprender, construir e evoluir.**
 
-</td>
 
-<td align="center" width="40">
-
-+</td>
-
-<td align="center" width="150">
-
-💻
-
-### CONSTRUIR
+</div>
 
 <br>
 
-Projetos e
-soluções
+**Aprender** novos conceitos e fundamentos.
 
-</td>
+**Praticar** através de exercícios, desafios e experimentos.
 
-</tr>
+**Construir** projetos que transformam conhecimento em prática.
 
-<tr>
+**Entender** erros, problemas e soluções.
 
-<td colspan="5" align="center">
+**Melhorar** código, ideias e processos.
 
-<br><br>
-
-↓
-
-<br><br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" colspan="5">
-
-🔎 **ENTENDER**   →   ✨ **MELHORAR**   →   🚀 **EVOLUIR**
-
-<br><br>
-
-<sub>
-Erros e problemas → novas soluções → novos desafios
-</sub>
-
-</td>
-
-</tr>
-
-</table>
+**Evoluir** para novos desafios.
 
 <br>
 
-```text
-     CONHECIMENTO
-           │
-           ▼
-      EXPERIÊNCIA
-           │
-           ▼
-        PROJETOS
-           │
-           ▼
-        EVOLUÇÃO
-```
+<div align="center">
 
-<br>
-
-**O processo continua.**
+`Conhecimento` → `Experiência` → `Projetos` → `Evolução`
 
 </div>
 
@@ -332,7 +207,12 @@ Quero desenvolver a capacidade de **entender um problema, pensar em uma soluçã
 
 ---
 
-<br>
+
+**Fundamentos fortes. Projetos reais. Evolução constante.**
+
+Meu caminho é construído passo a passo, buscando dominar cada etapa antes de avançar para a próxima.
+
+---
 
 <div align="center">
 
