@@ -35,7 +35,7 @@
 
 Sou **Abner de Jesus**, desenvolvedor em formação com foco em **desenvolvimento Web e Mobile**.
 
-Atualmente estou concentrado em fortalecer minha base de **JavaScript**, programação, lógica e resolução de problemas através de desafios e projetos práticos.
+Atualmente estou concentrado em fortalecer minha base em **JFRONT-END**, programação, lógica e resolução de problemas através de desafios e projetos práticos.
 
 Minha jornada está sendo construída de forma progressiva: primeiro uma base sólida no **Front-End**, depois **Back-End**, bases de dados e, posteriormente, desenvolvimento **Mobile**.
 
@@ -46,7 +46,7 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 ## 02 / STACK EM CONSTRUÇÃO
 
-### MINHA ARQUITETURA DE DESENVOLVIMENTO
+### MINHA ARQUITETURA DE DESENVOLVIMENTO (em progresso)
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
@@ -108,7 +108,7 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 Neste momento, meu foco principal é **evoluir meu desenvolvimento Front-End**.
 
-Estou fortalecendo minha base de **JavaScript**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
+Estou fortalecendo minha base de **JavaScrip,react**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
 
 Também estou aprofundando minha capacidade de criar interfaces mais **organizadas, responsivas, modernas e funcionais**.
 
