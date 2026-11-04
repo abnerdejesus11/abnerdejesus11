@@ -93,7 +93,7 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,bootstrap,mysql,php,react,ts,laravel,reactnative" />
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,mysql,php,react,ts,laravel,reactnative" />
 
 <br><br>
 
