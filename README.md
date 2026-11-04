@@ -56,15 +56,17 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 ├──────────────────────────────┼───────────────────────────────┤
 │                              │                               │
 │  01  HTML                    │                               │
-│  02  Tailwind CSS            │                               │
+│  02  Tailwind CSS(vite)           │                               │
 │  03  JavaScript              │                               │
-│  04  React                   │                               │
-│  05  TypeScript              │                               │
+│  04  Github              │                               │
+   05  Bootstrap
 │  06  MySQL                   │                               │
 │  07  PHP                     │                               │
-│  08  Laravel                 │                               │
+│  08  React                   │                               │
+│  09  TypeScript              │                               │
+│  10  Laravel                 │                               │
 │                              │                               │
-│                              │       09  React Native        │
+│                                 11  React Native (future)    │
 │                              │                               │
 └──────────────────────────────┴───────────────────────────────┘
 ```
@@ -74,12 +76,13 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 **01** → HTML
 **02** → Tailwind CSS
 **03** → JavaScript
-**04** → React
-**05** → TypeScript
-**06** → MySQL
-**07** → PHP
-**08** → Laravel
-**09** → React Native
+**04** → Github
+**05** → Bootstrap
+**06** → Mysql
+**07** → Php
+**08** → React
+**09** → TypeScript  
+**10** → Laravel
 
 > **Uma base sólida antes de avançar para a próxima camada.**
 
@@ -90,7 +93,7 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,react,ts,mysql,php,laravel,reactnative" />
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,bootstrap,mysql,php,react,ts,laravel,reactnative" />
 
 <br><br>
 
