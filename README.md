@@ -97,7 +97,7 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 <br><br>
 
-**HTML · Tailwind · JavaScript · React · TypeScript · MySQL · PHP · Laravel · React Native**
+**HTML · Tailwind · JavaScript · Git · Bootstrap · MySQL · PHP · React · TypeScript · Laravel · React Native**
 
 </div>
 
