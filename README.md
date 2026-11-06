@@ -111,7 +111,7 @@ Minha jornada está sendo construída de forma progressiva: primeiro uma base s�
 
 Neste momento, meu foco principal é **evoluir meu desenvolvimento Front-End**.
 
-Estou fortalecendo minha base de **JavaScrip,react**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
+Estou fortalecendo minha base de **JavaScrip,Taikwind,Bootstrap**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
 
 Também estou aprofundando minha capacidade de criar interfaces mais **organizadas, responsivas, modernas e funcionais**.
 
