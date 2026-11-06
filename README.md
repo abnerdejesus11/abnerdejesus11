@@ -35,9 +35,9 @@
 
 Sou **Abner de Jesus**, desenvolvedor em formação com foco em **desenvolvimento Web e Mobile**.
 
-Atualmente estou concentrado em fortalecer minha base em **FRONT-END**, programação, lógica e resolução de problemas através de desafios e projetos práticos.
+Atualmente estou concentrado em fortalecer minha base em **FRONT-END**,programação, lógica e resolução de problemas através de desafios e projetos práticos.
 
-Minha jornada está sendo construída de forma progressiva: primeiro uma base sólida no **Front-End**, depois **Back-End**, bases de dados e, posteriormente, desenvolvimento **Mobile**.
+Minha jornada está sendo construída de forma progressiva: primeiro uma base sólida no **Front-End** com frameworks Css para melhorar e aumentar a minha eficiecia na criação de interfaces, depois **Back-End**, bases de dados e,aprendendo linguagem para BACK-END para entender servidores e funcionamento dos sites atrás dos panos,posteriormente modernizando a minha stack para  framework e bibiliotecas FRONT-e-BACK para profissionalizar melhor meus trabalhos e fazer  sistemas mais escalaveis e organizados, e depois se for possivel desenvolvimento **Mobile**.
 
 > **Não quero apenas aprender tecnologias.
 > Quero aprender a construir.**
