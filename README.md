@@ -1,110 +1,119 @@
-<div align="center">
+# Abner de Jesus
 
-ABNER DE JESUS
-Aspiring Full-Stack Developer | Angola 🇦🇴
+**Full-Stack Web & Mobile Developer em formação**
 
-Building my skills. Turning ideas into code.
+🇦🇴 Angola · `Web Development` · `Mobile Development`
 
-![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-18181B?style=flat-square&logo=whatsapp&logoColor=white) ![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white) ![Threads](https://img.shields.io/badge/Threads-18181B?style=flat-square&logo=threads&logoColor=white)
+<p align="left">
+  <a href="https://github.com/abnerdejesus11">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/244933453958">
+    <img src="https://img.shields.io/badge/WhatsApp-18181B?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://x.com/Abner_de_Jesus">
+    <img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@abner_d_jesus">
+    <img src="https://img.shields.io/badge/Threads-18181B?style=flat-square&logo=threads&logoColor=white" />
+  </a>
+</p>
 
-</div>
+---
 
-👨🏽‍💻 About Me
+## Sobre mim
 
-Olá! Sou Abner de Jesus, um desenvolvedor angolano apaixonado por tecnologia, programação e criação de soluções digitais.
+Sou desenvolvedor em formação, interessado na criação de aplicações Web e Mobile, com foco em escrever código organizado, desenvolver soluções funcionais e resolver problemas através da tecnologia.
 
-Atualmente, estou a construir a minha jornada no desenvolvimento Web, consolidando os meus conhecimentos de Front-End e preparando-me para evoluir para o Back-End.
+Atualmente, estou a fortalecer os meus conhecimentos em Front-End, programação e lógica, através de desafios e projetos práticos.
 
-O meu objetivo é tornar-me um Full-Stack Web Developer, dominando as tecnologias necessárias para desenvolver aplicações completas, desde a interface até à lógica do servidor e gestão de dados.
+O meu percurso está direcionado para o desenvolvimento Full-Stack, começando pelos fundamentos Web, avançando para Back-End, bases de dados e frameworks modernas, e posteriormente para desenvolvimento Mobile.
 
-🇦🇴 Based in Angola.
-💻 Focused on Web Development.
-📚 Always learning and improving.
-🚀 Working towards becoming a Full-Stack Developer.
-I don't just want to learn technologies. I want to build solutions.
-🛠️ Tech Stack
-Currently Studied
+---
 
-<div align="left">
+## Stack em construção
 
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,git,github" />
+Tecnologias que fazem parte do meu percurso de aprendizagem e desenvolvimento.
 
-</div>
+**Web Development**
 
-Learning Roadmap
+| Ordem | Tecnologia |
+|:---:|---|
+| 01 | HTML |
+| 02 | Tailwind CSS |
+| 03 | JavaScript |
+| 04 | Git & GitHub |
+| 05 | Bootstrap |
+| 06 | MySQL |
+| 07 | PHP |
+| 08 | React |
+| 09 | TypeScript |
+| 10 | Laravel |
 
-<div align="left">
+**Mobile Development**
 
-<img src="https://skillicons.dev/icons?i=mysql,php,laravel,react,ts" />
+| Ordem | Tecnologia |
+|:---:|---|
+| 11 | React Native |
 
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,mysql,php,react,ts,laravel,reactnative" />
+</p>
 
-Future Exploration
+---
 
-<div align="left">
+## Foco atual
 
-<img src="https://skillicons.dev/icons?i=reactnative" />
+**Front-End Development**
 
-</div>
+- Aprofundamento de JavaScript.
+- Desenvolvimento de interfaces com Tailwind CSS e Bootstrap.
+- Prática de lógica de programação e resolução de problemas.
+- Construção de projetos funcionais e responsivos.
+- Organização e qualidade de código.
 
-🎯 Learning Roadmap
+---
 
-My journey towards Full-Stack Development:
+## O que desenvolvo
 
-Stage	Technology	Status
-01	HTML5	Studied
-02	Tailwind CSS	Studied
-03	JavaScript	Studied
-04	Git & GitHub	In practice
-05	MySQL	To learn
-06	PHP	To learn
-07	React	To learn
-08	TypeScript	To learn
-09	Laravel	To learn
-10	React Native	Future goal
+| Área | Descrição |
+|---|---|
+| Estudos | Exercícios, conceitos e anotações técnicas. |
+| Desafios | Problemas de programação e lógica. |
+| Projetos | Aplicações desenvolvidas durante a aprendizagem. |
+| Experimentos | Testes de ferramentas, tecnologias e novas ideias. |
 
-One step at a time. Building strong foundations before moving forward.
+---
 
-📌 What I'm Working On
-Strengthening my JavaScript fundamentals.
-Improving my Front-End development skills.
-Practising programming logic and problem-solving.
-Building practical projects to consolidate my knowledge.
-Preparing for Back-End development with PHP and MySQL.
-📊 GitHub Overview
+## Objetivos
 
-<div align="center">
+Construir uma carreira sólida como desenvolvedor Full-Stack Web & Mobile, desenvolvendo aplicações úteis, escaláveis e bem estruturadas.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abnerdejesus11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+Pretendo criar soluções capazes de responder a necessidades reais, tanto em Angola como internacionalmente, e continuar a evoluir através de projetos, colaboração e experiência prática.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerdejesus11&layout=compact&theme=transparent&hide_border=true" />
+---
 
-<br>
+## Contacto
 
-<img src="https://streak-stats.demolab.com?user=abnerdejesus11&theme=transparent&hide_border=true" />
+<p align="left">
+  <a href="https://github.com/abnerdejesus11">
+    <img src="https://img.shields.io/badge/GitHub-18181B?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
+    <img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/244933453958">
+    <img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://x.com/Abner_de_Jesus">
+    <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.threads.com/@abner_d_jesus">
+    <img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white" />
+  </a>
+</p>
 
-</div>
-
-🌍 Beyond Code
-
-I believe technology can create opportunities, transform ideas and solve real-world problems.
-
-As a developer from Angola, my ambition is to grow professionally, contribute to meaningful projects and build digital solutions with both local and global impact.
-
-From Angola to the world. 🇦🇴
-
-<div align="center">
-
-🤝 Let's Connect
-
-Open to learning, collaboration and new opportunities.
-
-![Instagram](https://img.shields.io/badge/Instagram-Connect-18181B?style=for-the-badge&logo=instagram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-18181B?style=for-the-badge&logo=whatsapp&logoColor=white) ![X](https://img.shields.io/badge/X-Follow-18181B?style=for-the-badge&logo=x&logoColor=white) ![Threads](https://img.shields.io/badge/Threads-Follow-18181B?style=for-the-badge&logo=threads&logoColor=white)
-
-<br>
-
-ABNER DE JESUS
-
-Learn · Build · Improve · Repeat
-
-</div>
+**Abner de Jesus** · Angola 🇦🇴
