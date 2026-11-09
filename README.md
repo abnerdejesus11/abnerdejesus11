@@ -1,258 +1,110 @@
 <div align="center">
 
-# ABNER DE JESUS
+ABNER DE JESUS
+Aspiring Full-Stack Developer | Angola 🇦🇴
 
-**Desenvolvedor Web & Mobile em formação**
+Building my skills. Turning ideas into code.
 
-🇦🇴 Angola
-`Código` · `Criatividade` · `Construção`
-
-<br>
-
-<a href="https://github.com/abnerdejesus11">
-<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white">
-</a>
-<a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
-<img src="https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white">
-</a>
-<a href="https://wa.me/244933453958">
-<img src="https://img.shields.io/badge/WhatsApp-18181B?style=flat-square&logo=whatsapp&logoColor=white">
-</a>
-<a href="https://x.com/Abner_de_Jesus">
-<img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white">
-</a>
-<a href="https://www.threads.com/@abner_d_jesus">
-<img src="https://img.shields.io/badge/Threads-18181B?style=flat-square&logo=threads&logoColor=white">
-</a>
+![GitHub](https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-18181B?style=flat-square&logo=instagram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-18181B?style=flat-square&logo=whatsapp&logoColor=white) ![X](https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white) ![Threads](https://img.shields.io/badge/Threads-18181B?style=flat-square&logo=threads&logoColor=white)
 
 </div>
 
-<br>
+👨🏽‍💻 About Me
 
----
+Olá! Sou Abner de Jesus, um desenvolvedor angolano apaixonado por tecnologia, programação e criação de soluções digitais.
 
-## 01 / SOBRE MIM
+Atualmente, estou a construir a minha jornada no desenvolvimento Web, consolidando os meus conhecimentos de Front-End e preparando-me para evoluir para o Back-End.
 
-Sou **Abner de Jesus**, desenvolvedor em formação com foco em **desenvolvimento Web e Mobile**.
+O meu objetivo é tornar-me um Full-Stack Web Developer, dominando as tecnologias necessárias para desenvolver aplicações completas, desde a interface até à lógica do servidor e gestão de dados.
 
-Atualmente estou concentrado em fortalecer minha base em **FRONT-END**,programação, lógica e resolução de problemas através de desafios e projetos práticos.
+🇦🇴 Based in Angola.
+💻 Focused on Web Development.
+📚 Always learning and improving.
+🚀 Working towards becoming a Full-Stack Developer.
+I don't just want to learn technologies. I want to build solutions.
+🛠️ Tech Stack
+Currently Studied
 
-Minha jornada está sendo construída de forma progressiva: primeiro uma base sólida no **Front-End** com frameworks Css para melhorar e aumentar a minha eficiecia na criação de interfaces, depois **Back-End**, bases de dados e,aprendendo linguagem para BACK-END para entender servidores e funcionamento dos sites atrás dos panos,posteriormente modernizando a minha stack para  framework e bibiliotecas FRONT-e-BACK para profissionalizar melhor meus trabalhos e fazer  sistemas mais escalaveis e organizados, e depois se for possivel desenvolvimento **Mobile**.
+<div align="left">
 
-> **Não quero apenas aprender tecnologias.
-> Quero aprender a construir.**
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,git,github" />
 
----
+</div>
 
-## 02 / STACK EM CONSTRUÇÃO
+Learning Roadmap
 
-### MINHA ARQUITETURA DE DESENVOLVIMENTO (em progresso)
+<div align="left">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                       DESENVOLVIMENTO                        │
-├──────────────────────────────┬───────────────────────────────┤
-│             WEB              │            MOBILE             │
-├──────────────────────────────┼───────────────────────────────┤
-│                              │                               │
-│  01  HTML                    │                               │
-│  02  Tailwind CSS(vite)           │                               │
-│  03  JavaScript              │                               │
-│  04  Github              │                               │
-   05  Bootstrap
-│  06  MySQL                   │                               │
-│  07  PHP                     │                               │
-│  08  React                   │                               │
-│  09  TypeScript              │                               │
-│  10  Laravel                 │                               │
-│                              │                               │
-│                                 11  React Native (future)    │
-│                              │                               │
-└──────────────────────────────┴───────────────────────────────┘
-```
+<img src="https://skillicons.dev/icons?i=mysql,php,laravel,react,ts" />
 
-### CAMINHO DE EVOLUÇÃO
+</div>
 
-**01** → HTML
-**02** → Tailwind CSS
-**03** → JavaScript
-**04** → Github
-**05** → Bootstrap
-**06** → Mysql
-**07** → Php
-**08** → React
-**09** → TypeScript  
-**10** → Laravel
+Future Exploration
 
-> **Uma base sólida antes de avançar para a próxima camada.**
+<div align="left">
 
-> **Construindo a base. Expandindo a stack. Evoluindo por etapas.**
+<img src="https://skillicons.dev/icons?i=reactnative" />
 
+</div>
 
-<br>
+🎯 Learning Roadmap
+
+My journey towards Full-Stack Development:
+
+Stage	Technology	Status
+01	HTML5	Studied
+02	Tailwind CSS	Studied
+03	JavaScript	Studied
+04	Git & GitHub	In practice
+05	MySQL	To learn
+06	PHP	To learn
+07	React	To learn
+08	TypeScript	To learn
+09	Laravel	To learn
+10	React Native	Future goal
+
+One step at a time. Building strong foundations before moving forward.
+
+📌 What I'm Working On
+Strengthening my JavaScript fundamentals.
+Improving my Front-End development skills.
+Practising programming logic and problem-solving.
+Building practical projects to consolidate my knowledge.
+Preparing for Back-End development with PHP and MySQL.
+📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,mysql,php,react,ts,laravel,reactnative" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abnerdejesus11&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 
-<br><br>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerdejesus11&layout=compact&theme=transparent&hide_border=true" />
 
-**HTML · Tailwind · JavaScript · Git · Bootstrap · MySQL · PHP · React · TypeScript · Laravel · React Native**
+<br>
+
+<img src="https://streak-stats.demolab.com?user=abnerdejesus11&theme=transparent&hide_border=true" />
 
 </div>
 
-> **Uma tecnologia de cada vez. Uma etapa de cada vez.**
+🌍 Beyond Code
 
----
+I believe technology can create opportunities, transform ideas and solve real-world problems.
 
-## 03 / NO MOMENTO
+As a developer from Angola, my ambition is to grow professionally, contribute to meaningful projects and build digital solutions with both local and global impact.
 
-### Evoluindo meu Front-End
-
-Neste momento, meu foco principal é **evoluir meu desenvolvimento Front-End**.
-
-Estou fortalecendo minha base de **JavaScrip,Taikwind,Bootstrap**, praticando lógica e resolução de problemas e transformando os conhecimentos adquiridos em pequenos projetos e desafios.
-
-Também estou aprofundando minha capacidade de criar interfaces mais **organizadas, responsivas, modernas e funcionais**.
-
-<br>
-
-
-> **Menos teoria isolada. Mais prática. Mais construção.**
-
----
-
-## 04 / O QUE VOCÊ VAI ENCONTRAR AQUI
-
-**ESTUDOS**
-
-Anotações, exercícios e experiências durante meu processo de aprendizagem.
-
-**DESAFIOS**
-
-Problemas de programação para desenvolver lógica, raciocínio e capacidade de resolução.
-
-**PROJETOS**
-
-Aplicações e ideias construídas para transformar conhecimento em prática.
-
-**EXPERIMENTOS**
-
-Testes, novas tecnologias, conceitos e ideias que fazem parte da jornada.
-
----
-
-## 05 / EVOLUÇÃO
-
-### O conhecimento só ganha valor quando vira prática.
-
-<br>
+From Angola to the world. 🇦🇴
 
 <div align="center">
 
-|            01            |           02          |                03                |
-| :----------------------: | :-------------------: | :------------------------------: |
-|       **APRENDER**       |      **PRATICAR**     |           **CONSTRUIR**          |
-|        Fundamentos       |      Experiência      |             Projetos             |
-| Conceitos e conhecimento | Exercícios e desafios | Ideias transformadas em soluções |
+🤝 Let's Connect
+
+Open to learning, collaboration and new opportunities.
+
+![Instagram](https://img.shields.io/badge/Instagram-Connect-18181B?style=for-the-badge&logo=instagram&logoColor=white) ![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-18181B?style=for-the-badge&logo=whatsapp&logoColor=white) ![X](https://img.shields.io/badge/X-Follow-18181B?style=for-the-badge&logo=x&logoColor=white) ![Threads](https://img.shields.io/badge/Threads-Follow-18181B?style=for-the-badge&logo=threads&logoColor=white)
 
 <br>
 
-**────────────────────────────────────────────────────────────**
+ABNER DE JESUS
 
-<br>
-
-|                 04                |         05         |       06       |
-| :-------------------------------: | :----------------: | :------------: |
-|            **ANALISAR**           |    **MELHORAR**    |   **EVOLUIR**  |
-|         Erros e resultados        |     Refinamento    | Novos desafios |
-| Entender o que pode ser melhorado | Código e processos |  Próxima etapa |
-
-</div>
-
-<br>
-
-> **Cada projeto representa uma nova oportunidade de aprender, construir e evoluir.**
-
-
-</div>
-
-<br>
-
-**Aprender** novos conceitos e fundamentos.
-
-**Praticar** através de exercícios, desafios e experimentos.
-
-**Construir** projetos que transformam conhecimento em prática.
-
-**Entender** erros, problemas e soluções.
-
-**Melhorar** código, ideias e processos.
-
-**Evoluir** para novos desafios.
-
-<br>
-
-<div align="center">
-
-`Conhecimento` → `Experiência` → `Projetos` → `Evolução`
-
-</div>
-
----
-
-## 06 / DE ANGOLA PARA O MUNDO
-
-Quero construir uma carreira sólida como **desenvolvedor Full-Stack Web & Mobile**, criando soluções úteis, modernas e bem estruturadas.
-
-Meu objetivo é desenvolver projetos que possam resolver problemas **localmente em Angola** e também ter utilidade em um contexto global.
-
-Não quero apenas acumular tecnologias.
-
-Quero desenvolver a capacidade de **entender um problema, pensar em uma solução e transformá-la em um produto funcional**.
-
-> **Aprender tecnologia é o começo.
-> Construir algo útil é o objetivo.**
-
----
-
-
-**Fundamentos fortes. Projetos reais. Evolução constante.**
-
-Meu caminho é construído passo a passo, buscando dominar cada etapa antes de avançar para a próxima.
-
----
-
-<div align="center">
-
-## CONECTE-SE COMIGO
-
-<br>
-
-<a href="https://www.instagram.com/abner_d_jesus?stkn=MXY3OWFxM3NsczVpYg==">
-<img src="https://img.shields.io/badge/Instagram-18181B?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-<a href="https://wa.me/244933453958">
-<img src="https://img.shields.io/badge/WhatsApp-18181B?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
-
-<a href="https://x.com/Abner_de_Jesus">
-<img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=white">
-</a>
-
-<a href="https://www.threads.com/@abner_d_jesus">
-<img src="https://img.shields.io/badge/Threads-18181B?style=for-the-badge&logo=threads&logoColor=white">
-</a>
-
-<br><br>
-
-### 🇦🇴 ABNER DE JESUS
-
-**Construindo de Angola para o mundo.**
-
-<br>
-
-`Aprender. Construir. Melhorar. Repetir.`
+Learn · Build · Improve · Repeat
 
 </div>
