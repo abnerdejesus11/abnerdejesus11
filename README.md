@@ -46,7 +46,7 @@ Tecnologias que fazem parte do meu percurso de aprendizagem.
 | 11 | React Native |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,react,ts,mysql,php,laravel,react_native"/>
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,react,ts,mysql,php,laravel,react"/>
 </p>
 
 ### `03.` CURRENT FOCUS
