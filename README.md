@@ -33,11 +33,11 @@ Tecnologias que fazem parte do meu percurso de aprendizagem.
 | 03 | JavaScript |
 | 04 | Git & GitHub |
 | 05 | Bootstrap |
-| 06 | MySQL |
-| 07 | PHP |
-| 08 | Laravel |
-| 09 | React |
-| 10 | TypeScript |
+| 06 | React |
+| 07 | Typescript|
+| 08 | Mysql |
+| 09 | PHP   |
+| 10 | Laravel|
 
 **MOBILE DEVELOPMENT**
 
@@ -53,7 +53,7 @@ Tecnologias que fazem parte do meu percurso de aprendizagem.
 
 **Front-End Development**
 
-- JavaScript e lógica de programação.
+- JavaScript e frameworks para lógica de programação e produtos front-end.
 - Construção de interfaces responsivas.
 - Tailwind CSS e Bootstrap.
 - Desenvolvimento de projetos práticos.
