@@ -34,10 +34,12 @@ Tecnologias que fazem parte do meu percurso de aprendizagem.
 | 04 | Git & GitHub |
 | 05 | Bootstrap |
 | 06 | React |
-| 07 | Typescript|
-| 08 | Mysql |
-| 09 | PHP   |
-| 10 | Laravel|
+| 07 | Next|
+| 08 | Typescript|
+| 09 | Mysql |
+| 10 | PHP   |
+| 11 | Laravel|
+
 
 **MOBILE DEVELOPMENT**
 
@@ -46,7 +48,7 @@ Tecnologias que fazem parte do meu percurso de aprendizagem.
 | 11 | React Native |
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,react,ts,mysql,php,laravel,react"/>
+  <img src="https://skillicons.dev/icons?i=html,tailwind,js,git,bootstrap,react,ts,next,mysql,php,laravel,react"/>
 </p>
 
 ### `03.` CURRENT FOCUS
